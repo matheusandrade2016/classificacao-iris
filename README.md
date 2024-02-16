@@ -1,4 +1,4 @@
-# classificacao-iris
+# classificação-iris
 
 Descrição:
 
